@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ConvoLine/Temp/android_3_rnd/appZoo/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/ConvoLine/Temp/android_3_rnd/appZoo/app/src/main/res/layout/cage_info.xml" value="0.36666666666666664" />
+        <entry key="..\:/ConvoLine/Temp/android_3_rnd/appZoo/app/src/main/res/layout/cage_list_ement.xml" value="0.36666666666666664" />
+        <entry key="..\:/ConvoLine/Temp/android_3_rnd/appZoo/app/src/main/res/layout/list_of_cages.xml" value="0.27421875" />
+        <entry key="..\:/ConvoLine/Temp/android_3_rnd/appZoo/app/src/main/res/layout/list_of_students.xml" value="0.36666666666666664" />
+        <entry key="..\:/ConvoLine/Temp/android_3_rnd/appZoo/app/src/main/res/layout/student_info.xml" value="0.36666666666666664" />
+        <entry key="..\:/ConvoLine/Temp/android_3_rnd/appZoo/app/src/main/res/layout/student_list_ement.xml" value="0.33" />
+        <entry key="..\:/ConvoLine/Temp/android_3_rnd/appZoo/app/src/main/res/menu/main_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/ConvoLine/Temp/android_4_rnd/appZoo/app/src/main/res/layout/activity_main.xml" value="0.17831813576494426" />
+        <entry key="..\:/ConvoLine/Temp/android_4_rnd/appZoo/app/src/main/res/layout/student_info.xml" value="0.18541666666666667" />
+        <entry key="..\:/Limbo/Purgatory/appZoo/app/src/main/res/menu/main_menu.xml" value="0.25" />
+        <entry key="..\:/Users/keela/Desktop/1/appStudent/app/src/main/res/layout/student_list_ement.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

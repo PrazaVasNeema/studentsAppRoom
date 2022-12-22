@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">appStudents</string>
+    <string name="lLastName">фамилия</string>
+    <string name="hintMiddleName">введите отчество</string>
+    <string name="lMiddleName">отчество</string>
+    <string name="hintFirstName">введите имя</string>
+    <string name="lFirstNAme">имя</string>
+    <string name="hintLastName">введите фамилию</string>
+    <string name="lFaculty">факультет</string>
+    <string name="hintFaculty">введите факультет</string>
+    <string name="lGroup">группа</string>
+    <string name="hintGroup">введите номер группы</string>
+    <string name="lCancel">отмена</string>
+    <string name="lSave">сохранить</string>
+    <string name="lAge">возраст</string>
+    <string name="eEmptyText">aaaaaaaaaaaaa</string>
+    <string name="lAdd">Добавить</string>
+    <string name="lDelete">Удалить</string>
+    <string name="lChange">Изменить</string>
+</resources>
